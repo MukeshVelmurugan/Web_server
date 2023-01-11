@@ -59,8 +59,9 @@ httpd.serve_forever()
 ```
 
 # OUTPUT:
-![model](/my%20web%20server%20img.png)
+![my web server img](https://user-images.githubusercontent.com/118707363/211735657-a3e3e2fb-8fa4-45f5-83d0-d89461bfeee9.png)
+
 
 # RESULT:
 
-The program is executed succesfully
+The program is executed successfully
