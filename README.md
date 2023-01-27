@@ -1,9 +1,8 @@
 # Developing a Simple Webserver
 
 # AIM:
+To develop a simple webserver to serve html pages.
 
-Name : Mukesh V,
-Ref No : 22008323
 
 # DESIGN STEPS:
 
